@@ -1,5 +1,4 @@
 // nuro doesn't dig the store
 // cola...
 
-// ok back to main, not even on top, chceked out just not in popup menu
-// possibly creep
+// now we have stars... and creep locally/bloat at origin
